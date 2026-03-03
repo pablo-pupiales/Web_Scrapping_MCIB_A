@@ -8,13 +8,13 @@ Este proyecto es una herramienta de **Web Scraping** desarrollada en Python para
 - **Limpieza de Datos:** Procesa la información y elimina caracteres innecesarios.
 - **Exportación:** Genera un archivo `csv` con formato UTF-8 listo para abrirse en Excel sin errores de caracteres.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 * **Python 3.x**
 * **BeautifulSoup4:** Para la navegación y extracción del DOM HTML.
 * **Requests:** Para la gestión de peticiones HTTP.
 * **Pandas:** Para la estructuración y limpieza de los datos en DataFrames.
 
-## 📋 Requisitos e Instalación
+## Requisitos e Instalación
 
 1. Clona este repositorio o descarga el archivo `.py`.
 2. Instala las dependencias necesarias ejecutando:
